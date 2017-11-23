@@ -69,4 +69,4 @@ var Person = function () {
 // Time to check.
 
 
-new Person().log();
+new Person().log(); // Person obj.
