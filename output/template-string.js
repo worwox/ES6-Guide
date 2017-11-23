@@ -5,7 +5,5 @@
 // Sample HTML content.
 var template = "\n\t<div>\n\t\t<p> Hello World! </p>\n\t</div>\n";
 
-template.trim();
-
 // Print tempalte.
 console.log(template);
