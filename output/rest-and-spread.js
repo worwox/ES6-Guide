@@ -32,3 +32,6 @@ var num = [3, 5];
 
 // Call separate sum function.
 console.log(sumSeparate.apply(undefined, num));
+
+// In case of multiple arguments keep
+// rest arguments at the end. eg. sum(x, ...num)
