@@ -1,11 +1,11 @@
 // 'let' and 'const'
-function showMyName( bool ) {
-	if ( bool ) {
+function showMyName(bool) {
+	if (bool) {
 		let goodName = 'Saqib';
-		console.log( goodName ); // Saqib.
+		console.log(goodName); // Saqib.
 	} else {
-		console.log( goodName ); // error.
+		console.log(goodName); // error.
 	}
 }
 
-showMyName( false );
+showMyName(false);
