@@ -1,8 +1,9 @@
 'use strict';
 
-// Objec enhancement includes objects shorthand notations
-// and objects destructuring
+// Object enhancement introduces objects shorthand notations
+// and objects destructuring.
 
+// Return person object.
 function getPerson() {
 	var name = 'Saqib';
 	var age = 20;

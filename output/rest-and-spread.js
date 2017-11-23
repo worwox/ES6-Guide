@@ -24,6 +24,7 @@ console.log(sum(1, 2, 4, 6)); // Add as much argument as you want.
 
 // 2 numbers sum function.
 function sumSeparate(x, y) {
+	// 3, 5 if we had more parameters they would be ignored.
 	return x + y;
 }
 
