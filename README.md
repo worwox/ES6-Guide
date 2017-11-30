@@ -1,3 +1,5 @@
+![ES6 Guide Header](/images/guide.header.jpg)
+
 # Learning ES6
 This repository contains all exercises of learning ES6. 
 
