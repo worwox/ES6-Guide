@@ -5,7 +5,7 @@
 <p align="center"><b> 🍭 A Visual Guide To ES6 Features In Comparison With Previous Versions </b><br> Follow on Twitter → <a href="http://twitter.com/WPCouple">WPCouple</a></p>
 
 ***
-![ES6 Guide Header](/images/guide.png)
+![ES6 Guide Header](/images/es6-guide.png)
 
 
 ##  How to Use?
