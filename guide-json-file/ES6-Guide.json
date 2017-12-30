@@ -1444,7 +1444,7 @@
           "measuredW": "275",
           "properties": {
             "size": "14",
-            "text": "let person = { \n\t\tname: 'John',\n\t\tage: 21,\n\t         }\nlet {name}  = person; \nconsole.log(name); // John"
+            "text": "let person = { \n\t\tname: 'John',\n\t\tage: 21,\n\t         }\nlet { name }  = person; \nconsole.log(name); // John"
           },
           "typeID": "Paragraph",
           "w": "234",
