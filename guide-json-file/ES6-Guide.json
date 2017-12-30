@@ -1665,7 +1665,7 @@
             "text": "class User {\n\tconstructor(username, email) {\n\t\tthis.username = username;\n\t\tthis.email = email;\n\t}\n\t\n\tchangeEmail(newEmail) {\n\t\tthis.email = newEmail;\n\t}\n}"
           },
           "typeID": "Paragraph",
-          "w": "251",
+          "w": "278",
           "x": "646",
           "y": "1280",
           "zOrder": "66"
