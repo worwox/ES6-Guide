@@ -359,7 +359,7 @@
           "measuredW": "275",
           "properties": {
             "size": "14",
-            "text": "Block level sope. Value cannot be re-assigned. Not immutable."
+            "text": "Block level scope. Value cannot be re-assigned. Not immutable."
           },
           "typeID": "Paragraph",
           "w": "152",
