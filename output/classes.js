@@ -67,4 +67,5 @@ function log(user) {
 	console.log(user.name, user.email);
 }
 
+// Calling log function.
 log(new User('Saqib', 'me@saqibameen.com'));
